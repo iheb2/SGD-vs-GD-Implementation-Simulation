@@ -10,5 +10,5 @@
 - Implementing the comparison function between GD and SGD Based on the OCR dataset and MSE
 - Interpreting from the given results and plots the Pros and cons of every algorithms
 - Stochastic Processes Simulation
--- Brownian Motion or Wiener Process Simulation
---  Poisson Process Simulation
+- -  Brownian Motion or Wiener Process Simulation
+- -  Poisson Process Simulation
