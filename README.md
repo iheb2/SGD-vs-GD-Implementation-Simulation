@@ -8,7 +8,7 @@
 - Use of  Python to implement GD and SGD functions
 - Use of  the implemeted functions for minimizing the mean squared error on the OCR dataset
 - Implementation of the comparison function between GD and SGD Based on the OCR dataset and MSE
-- Interpretation of from the given results and plots the Pros and cons of every algorithms
+- Interpretation of  the given results and plots the Pros and cons of every algorithms
 - Stochastic Processes Simulation
 - -  Brownian Motion or Wiener Process Simulation
 - -  Poisson Process Simulation
